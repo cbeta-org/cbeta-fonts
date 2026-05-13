@@ -17,6 +17,10 @@
 
 - 全宋體：https://fgwang.blogspot.com/
 
+
+## 網路字型服務
+連結：https://cbeta-org.github.io/cbeta-fonts/CBETASupplement.woff2
+
 ---
 
 CBETA (Comprehensive Buddhist Electronic Text Archive Foundation)  
