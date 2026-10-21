@@ -1,4 +1,4 @@
-# CBETA 補充字型（CBETA Supplement Font）
+# CBETA 補充字型（CBETA Supplemental Font）
 
 ## 關於本字型
 
